@@ -1,0 +1,2 @@
+# static-microsoft
+deneme projesi
